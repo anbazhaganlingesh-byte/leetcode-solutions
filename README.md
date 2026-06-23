@@ -76,6 +76,7 @@ This repository contains my LeetCode solutions.
 | [0345-reverse-vowels-of-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0953-reverse-only-letters) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
@@ -85,6 +86,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
