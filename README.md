@@ -22,6 +22,7 @@ This repository contains my LeetCode solutions.
 | [0485-max-consecutive-ones](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -109,6 +110,7 @@ This repository contains my LeetCode solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
 |  |
