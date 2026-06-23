@@ -45,4 +45,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
