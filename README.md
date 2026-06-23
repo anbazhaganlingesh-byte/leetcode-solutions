@@ -16,6 +16,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -33,10 +35,12 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
