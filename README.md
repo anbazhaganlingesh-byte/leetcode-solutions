@@ -9,6 +9,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@ This repository contains my LeetCode solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
@@ -100,4 +102,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
