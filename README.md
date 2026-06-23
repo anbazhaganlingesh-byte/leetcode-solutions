@@ -11,6 +11,7 @@ This repository contains my LeetCode solutions.
 | [0001-two-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
