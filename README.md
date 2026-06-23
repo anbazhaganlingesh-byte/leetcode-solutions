@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions.
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ This repository contains my LeetCode solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,4 +114,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
