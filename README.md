@@ -21,6 +21,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
@@ -53,4 +54,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
