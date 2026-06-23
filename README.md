@@ -32,6 +32,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -63,6 +64,7 @@ This repository contains my LeetCode solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
