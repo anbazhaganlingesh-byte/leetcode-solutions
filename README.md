@@ -9,10 +9,12 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +27,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
