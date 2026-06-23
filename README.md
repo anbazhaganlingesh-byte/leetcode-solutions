@@ -116,6 +116,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -129,4 +130,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3962-number-of-zigzag-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
