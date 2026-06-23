@@ -15,6 +15,7 @@ This repository contains my LeetCode solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
