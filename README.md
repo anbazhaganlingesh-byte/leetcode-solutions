@@ -23,6 +23,7 @@ This repository contains my LeetCode solutions.
 | [0485-max-consecutive-ones](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -37,6 +38,7 @@ This repository contains my LeetCode solutions.
 | [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -141,6 +143,7 @@ This repository contains my LeetCode solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
