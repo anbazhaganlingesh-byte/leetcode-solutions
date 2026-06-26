@@ -67,6 +67,7 @@ This repository contains my LeetCode solutions.
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ This repository contains my LeetCode solutions.
 | [0567-permutation-in-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
