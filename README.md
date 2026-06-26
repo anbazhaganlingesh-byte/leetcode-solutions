@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions.
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -146,6 +147,7 @@ This repository contains my LeetCode solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
