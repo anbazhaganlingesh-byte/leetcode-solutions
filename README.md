@@ -18,6 +18,7 @@ This repository contains my LeetCode solutions.
 | [0088-merge-sorted-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -36,6 +37,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -88,6 +90,7 @@ This repository contains my LeetCode solutions.
 | [0015-3sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -151,6 +154,7 @@ This repository contains my LeetCode solutions.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
@@ -206,4 +210,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
