@@ -65,6 +65,7 @@ This repository contains my LeetCode solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -79,6 +80,7 @@ This repository contains my LeetCode solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@ This repository contains my LeetCode solutions.
 | [0345-reverse-vowels-of-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -199,4 +202,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
