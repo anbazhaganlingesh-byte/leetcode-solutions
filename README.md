@@ -74,6 +74,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -162,4 +163,16 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
