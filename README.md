@@ -49,6 +49,7 @@ This repository contains my LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0066-plus-one) |
