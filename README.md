@@ -59,6 +59,7 @@ This repository contains my LeetCode solutions.
 | [0009-palindrome-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -149,6 +150,7 @@ This repository contains my LeetCode solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
