@@ -59,6 +59,7 @@ This repository contains my LeetCode solutions.
 | [0009-palindrome-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -70,6 +71,7 @@ This repository contains my LeetCode solutions.
 | [0014-longest-common-prefix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -110,6 +112,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
@@ -225,6 +228,7 @@ This repository contains my LeetCode solutions.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 ## Divide and Conquer
 |  |
