@@ -10,6 +10,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0066-plus-one) |
@@ -61,6 +62,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -220,4 +222,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
