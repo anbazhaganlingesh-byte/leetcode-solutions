@@ -39,6 +39,7 @@ This repository contains my LeetCode solutions.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ This repository contains my LeetCode solutions.
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -170,6 +172,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -239,4 +242,16 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
