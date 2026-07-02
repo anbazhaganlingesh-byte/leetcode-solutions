@@ -77,6 +77,7 @@ This repository contains my LeetCode solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -210,18 +211,21 @@ This repository contains my LeetCode solutions.
 | [0094-binary-tree-inorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Design
 |  |
 | ------- |
@@ -269,4 +273,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
