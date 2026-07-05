@@ -30,6 +30,7 @@ This repository contains my LeetCode solutions.
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -178,6 +179,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Counting
@@ -200,6 +202,7 @@ This repository contains my LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
