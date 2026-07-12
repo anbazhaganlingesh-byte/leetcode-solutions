@@ -34,6 +34,7 @@ This repository contains my LeetCode solutions.
 | [1022-unique-paths-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1022-unique-paths-iii) |
 | [1222-remove-covered-intervals](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
+| [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -59,6 +60,7 @@ This repository contains my LeetCode solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -123,6 +125,7 @@ This repository contains my LeetCode solutions.
 | [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1222-remove-covered-intervals](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
 |  |
