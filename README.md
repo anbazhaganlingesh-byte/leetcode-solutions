@@ -302,4 +302,8 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1022-unique-paths-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1022-unique-paths-iii) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
