@@ -30,6 +30,7 @@ This repository contains my LeetCode solutions.
 | [0485-max-consecutive-ones](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1022-unique-paths-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1022-unique-paths-iii) |
 | [1222-remove-covered-intervals](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1222-remove-covered-intervals) |
@@ -194,6 +195,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1022-unique-paths-iii) |
 | [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -265,6 +267,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
