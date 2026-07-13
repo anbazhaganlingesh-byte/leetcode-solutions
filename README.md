@@ -46,6 +46,7 @@ This repository contains my LeetCode solutions.
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2411-spiral-matrix-iv](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -173,6 +174,7 @@ This repository contains my LeetCode solutions.
 | [0234-palindrome-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@ This repository contains my LeetCode solutions.
 | [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1022-unique-paths-iii) |
 | [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
+| [2411-spiral-matrix-iv](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Counting
@@ -277,6 +280,7 @@ This repository contains my LeetCode solutions.
 | [0566-reshape-the-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
