@@ -16,6 +16,7 @@ This repository contains my LeetCode solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -195,6 +196,7 @@ This repository contains my LeetCode solutions.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
@@ -267,6 +269,7 @@ This repository contains my LeetCode solutions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
