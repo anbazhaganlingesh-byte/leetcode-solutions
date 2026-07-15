@@ -83,6 +83,7 @@ This repository contains my LeetCode solutions.
 | [0189-rotate-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -324,4 +325,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1212-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
