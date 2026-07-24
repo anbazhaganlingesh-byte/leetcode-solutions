@@ -52,6 +52,7 @@ This repository contains my LeetCode solutions.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ This repository contains my LeetCode solutions.
 | [0189-rotate-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -143,6 +145,7 @@ This repository contains my LeetCode solutions.
 | [0136-single-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1022-unique-paths-iii) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,6 +330,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [1212-sequential-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1212-sequential-digits) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
