@@ -42,6 +42,7 @@ This repository contains my LeetCode solutions.
 | [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -140,6 +141,7 @@ This repository contains my LeetCode solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1222-remove-covered-intervals](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3859-maximum-product-of-two-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -314,6 +316,7 @@ This repository contains my LeetCode solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
