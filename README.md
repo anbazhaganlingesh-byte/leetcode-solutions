@@ -116,6 +116,7 @@ This repository contains my LeetCode solutions.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -143,6 +144,7 @@ This repository contains my LeetCode solutions.
 | [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -343,4 +345,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
