@@ -31,6 +31,7 @@ This repository contains my LeetCode solutions.
 | [0217-contains-duplicate](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0792-binary-search) |
@@ -85,6 +86,7 @@ This repository contains my LeetCode solutions.
 | [0069-sqrtx](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -248,6 +250,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0118-pascals-triangle](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Greedy
@@ -290,6 +293,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0050-powx-n](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -352,4 +356,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
