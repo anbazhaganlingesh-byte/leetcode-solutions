@@ -58,6 +58,7 @@ This repository contains my LeetCode solutions.
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ This repository contains my LeetCode solutions.
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@ This repository contains my LeetCode solutions.
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
