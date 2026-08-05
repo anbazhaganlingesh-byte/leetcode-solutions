@@ -279,6 +279,7 @@ This repository contains my LeetCode solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [3561-remove-methods-from-project](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3561-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +324,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3561-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -338,6 +340,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3561-remove-methods-from-project) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
