@@ -94,6 +94,7 @@ This repository contains my LeetCode solutions.
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -355,6 +356,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1212-sequential-digits) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Number Theory
