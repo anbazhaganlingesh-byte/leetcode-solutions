@@ -41,6 +41,7 @@ This repository contains my LeetCode solutions.
 | [1022-unique-paths-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1022-unique-paths-iii) |
 | [1222-remove-covered-intervals](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
@@ -91,6 +92,7 @@ This repository contains my LeetCode solutions.
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -219,6 +221,7 @@ This repository contains my LeetCode solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3962-number-of-zigzag-arrays-i) |
@@ -260,6 +263,7 @@ This repository contains my LeetCode solutions.
 | [0198-house-robber](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1234-number-of-paths-with-max-score](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3962-number-of-zigzag-arrays-i) |
@@ -375,13 +379,16 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
