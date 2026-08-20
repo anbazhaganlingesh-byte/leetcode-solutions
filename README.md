@@ -59,6 +59,7 @@ This repository contains my LeetCode solutions.
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -335,6 +336,7 @@ This repository contains my LeetCode solutions.
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
