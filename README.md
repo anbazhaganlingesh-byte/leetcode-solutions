@@ -65,6 +65,7 @@ This repository contains my LeetCode solutions.
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
+| [4284-smallest-stable-index-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +240,7 @@ This repository contains my LeetCode solutions.
 | [1833-find-the-highest-altitude](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4284-smallest-stable-index-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4284-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
