@@ -103,6 +103,7 @@ This repository contains my LeetCode solutions.
 | [0441-arranging-coins](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-rectangle-overlap](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0866-rectangle-overlap) |
 | [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
@@ -410,4 +411,8 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
