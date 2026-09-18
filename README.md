@@ -82,6 +82,7 @@ This repository contains my LeetCode solutions.
 | [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1487-cinema-seat-allocation](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -134,6 +135,7 @@ This repository contains my LeetCode solutions.
 | [0953-reverse-only-letters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -168,6 +170,7 @@ This repository contains my LeetCode solutions.
 | [1222-remove-covered-intervals](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -290,6 +293,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1487-cinema-seat-allocation](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
