@@ -107,6 +107,7 @@ This repository contains my LeetCode solutions.
 | [0866-rectangle-overlap](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0866-rectangle-overlap) |
 | [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -419,4 +420,5 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
